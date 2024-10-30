@@ -100,9 +100,9 @@
     line-height: 1pt;
   }
   #hero .cs-picture {
-    width: 30%;
+    width: 70%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    max-width: 36.5625rem;
+    max-width: 70%;
     /* 380px - 453px */
     height: clamp(18.75rem, 52vw, 23.3215rem);
     border-radius: 1rem;
